@@ -148,7 +148,7 @@ nav {
 }
 
 .hero {
-    /* background: var(--background-footer); */
+    background: var(--background-footer);
     background-image: url("../images/solution-bg.jpg");
     padding: 200px 0;
     text-align: center;
